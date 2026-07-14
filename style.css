@@ -18,7 +18,7 @@
   --nav-h:     56px;
 }
 
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; zoom: 180%; }
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
